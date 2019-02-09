@@ -84,6 +84,7 @@ a {
   border-bottom-width: 0px;
   border-color: #EEEEEE;
   border-style: solid;
+  transition: background-color 360ms, border-color 360ms, color 360ms;
 }
 
 .btn-wrapper a:hover {
